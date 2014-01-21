@@ -1,5 +1,7 @@
-IBIS-droid-2-public
+IBIScontrol Bugtracker
 ===================
-IBIS droid 2 Bugtracker
+
+https://github.com/gcWorld/IBIScontrol-Bugs/issues
+
 
 http://app.gcmods.de
